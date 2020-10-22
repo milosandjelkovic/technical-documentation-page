@@ -222,5 +222,8 @@ section, section + h3 {
 	.act, .nav-link:hover {
 		border-right: none;
 	}
+	
+	code {
+		word-wrap: break-word;
 
 }
